@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShootNBTEdit", "ShootNBTEdit\ShootNBTEdit.csproj", "{F84E5F0C-5416-490F-B5C0-DDC9D5665EA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBTLib", "NBTLib\NBTLib.csproj", "{85540547-E6AC-4165-BE68-F247A66C062B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F84E5F0C-5416-490F-B5C0-DDC9D5665EA6}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{F84E5F0C-5416-490F-B5C0-DDC9D5665EA6}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{F84E5F0C-5416-490F-B5C0-DDC9D5665EA6}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{F84E5F0C-5416-490F-B5C0-DDC9D5665EA6}.Debug|x86.ActiveCfg = Debug|x86
+		{F84E5F0C-5416-490F-B5C0-DDC9D5665EA6}.Debug|x86.Build.0 = Debug|x86
+		{F84E5F0C-5416-490F-B5C0-DDC9D5665EA6}.Release|Any CPU.ActiveCfg = Release|x86
+		{F84E5F0C-5416-490F-B5C0-DDC9D5665EA6}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{F84E5F0C-5416-490F-B5C0-DDC9D5665EA6}.Release|Mixed Platforms.Build.0 = Release|x86
+		{F84E5F0C-5416-490F-B5C0-DDC9D5665EA6}.Release|x86.ActiveCfg = Release|x86
+		{F84E5F0C-5416-490F-B5C0-DDC9D5665EA6}.Release|x86.Build.0 = Release|x86
+		{85540547-E6AC-4165-BE68-F247A66C062B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85540547-E6AC-4165-BE68-F247A66C062B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85540547-E6AC-4165-BE68-F247A66C062B}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{85540547-E6AC-4165-BE68-F247A66C062B}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{85540547-E6AC-4165-BE68-F247A66C062B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{85540547-E6AC-4165-BE68-F247A66C062B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85540547-E6AC-4165-BE68-F247A66C062B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85540547-E6AC-4165-BE68-F247A66C062B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{85540547-E6AC-4165-BE68-F247A66C062B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{85540547-E6AC-4165-BE68-F247A66C062B}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
